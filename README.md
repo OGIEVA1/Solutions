@@ -1,2 +1,2 @@
 # Solutions
-Coursera Assignments solution
+Coursera Frontend Development Course Assignment solutions
